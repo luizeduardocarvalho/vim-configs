@@ -1,0 +1,2 @@
+require('onenord').setup()
+
