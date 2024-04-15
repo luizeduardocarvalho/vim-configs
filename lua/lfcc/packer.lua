@@ -65,4 +65,14 @@ use {
     }
 }
 
+use {
+    'wthollingsworth/pomodoro.nvim',
+    requires = 'MunifTanjim/nui.nvim'
+}
+
+use {
+  'nvim-lualine/lualine.nvim',
+  requires = { 'nvim-tree/nvim-web-devicons', opt = true }
+}
+
 end)
