@@ -1,2 +1,1 @@
-require('onenord').setup()
-
+-- require('onenord').setup()
